@@ -1,1 +1,2 @@
-# passport-kilkelly
+
+Fork of [this repo](https://github.com/kilkelly/react-passport-redux-example)...
